@@ -1,4 +1,4 @@
-#Project 3 – IST 718 Big Data Analytics; Willard Williamson
+# Project 3 – IST 718 Big Data Analytics; Willard Williamson
 
 Project Title: “Used Vehicle Buying: Improving the Buyer and Seller experience through inference and prediction models”
 
