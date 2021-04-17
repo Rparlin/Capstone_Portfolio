@@ -35,7 +35,7 @@ rsparlin@syr.edu
 |Linear & Non-linear Regression | Logit |MCMC|Niave Bayes | Optimization |
 |Probit | Random Forest |SVMs|Text Analysis | Traditional/Bayesian Statistics |
 
-******************************************************************************************************************************************************************************
+
 
 
 
