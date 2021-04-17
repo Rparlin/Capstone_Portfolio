@@ -1,2 +1,5 @@
 # Capstone_Portfolio
-A sample of my work offered for my Capstone Portfolio
+# Ralph S. Parlin
+# SUID# 812719600
+# rsparlin@syr.edu
+
