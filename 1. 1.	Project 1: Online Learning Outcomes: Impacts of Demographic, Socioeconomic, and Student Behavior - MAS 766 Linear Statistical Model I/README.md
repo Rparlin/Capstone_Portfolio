@@ -8,7 +8,7 @@ Purpose: As a member of a team, employ the linear statistical modeling technique
 
 Method: Linear statistical modeling using R, Python and Excel
 
-Insights: Our analysis provides evidence that:
-•	A student’s demographics, their socioeconomic status and their academic behavior play a role in determining online academic outcomes  
-•	Students from a wealthier regions have advantages, and how access to broadband matters
-•	Number of courses a student takes is a leading indicator in helping to predict if a student will withdraw from a program before completing
+Insights: Our analysis provides evidence that:<br/>
+•	A student’s demographics, their socioeconomic status and their academic behavior play a role in determining online academic outcomes<br/> 
+•	Students from a wealthier regions have advantages, and how access to broadband matters<br/>
+•	Number of courses a student takes is a leading indicator in helping to predict if a student will withdraw from a program before completing<br/>
