@@ -14,7 +14,7 @@ rsparlin@syr.edu
 6.	Project 6: Recreational Boating Accidents: Prevention Through Awareness<br/>
 7.	Resume
 8.	Report
-9.	Video
+9.	Presentation
 
 ## Tools Used
 
